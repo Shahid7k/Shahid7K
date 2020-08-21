@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="www.github.com/Shahid7k/Shahid7K/images/git1f.gif" alt="Welcome to my Profile" width="1000px" />
+<img src="https://github.com/Shahid7k/Shahid7K/blob/master/images/git1f.gif" alt="Welcome to my Profile" width="1000px" />
