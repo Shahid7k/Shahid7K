@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 4
 
-<img src="c" alt="Welcome to my Profile" width="850px" />
+<img src="./images/git1f.gif" alt="Welcome to my Profile" width="100%" />
 <img src="./Tempo Delivery Service (4).gif" alt="Welcome to my Profile" width="1050px" />
