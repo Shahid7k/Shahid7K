@@ -38,10 +38,10 @@ The included projects are :
 > This project recieved huge appreciation from  many viewers and professors from the college.
 
 ## >>ResuMaker
-> Dynamic Single Page RESTful web application which automatically generates a Resume from the given range of templates provided. Backend built on DENO (new-born technology
+> - Dynamic Single Page RESTful web application which automatically generates a Resume from the given range of templates provided. Backend built on DENO (new-born technology
 released 2 months prior to the start of this project), therefore the runtime is secure.
-> Scalable as new templates can be added within minutes.  
-   Technologies used : `HTML, CSS, JS, TS, DENO, MongoDB`
+> - Scalable as new templates can be added within minutes.  
+   Technologies used : `HTML, CSS, JS, TS, DENO, MongoDB`  
    Repository : [ResuMaker](https://github.com/Shahid7k/ResuMaker)
   
 
