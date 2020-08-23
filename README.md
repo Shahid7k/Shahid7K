@@ -55,5 +55,5 @@ Other repositories include
   • Calculator : Vanilla JavaScript based Calculator. My first work when I started learning Web Development and GitHub.  
   ```
   
-# Thanks for bearing me till here. Now you can see my work below. 
+# Thanks for reading till here. Now you can see my work below. 
 ##### Have a Nice Day! :smile:
