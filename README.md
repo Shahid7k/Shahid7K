@@ -40,18 +40,18 @@ The included projects are :
 ## >>ResuMaker
 > Dynamic Single Page RESTful web application which automatically generates a Resume from the given range of templates provided. Backend built on DENO (new-born technology
 released 2 months prior to the start of this project), therefore the runtime is secure.
-> Scalable as new templates can be added within minutes.
-  Technologies used : `HTML, CSS, JS, TS, DENO, MongoDB`
-  Repository : [ResuMaker](https://github.com/Shahid7k/ResuMaker)
+> Scalable as new templates can be added within minutes.  
+   Technologies used : `HTML, CSS, JS, TS, DENO, MongoDB`
+   Repository : [ResuMaker](https://github.com/Shahid7k/ResuMaker)
   
 
 ---
 Other repositories include 
   ```
-  Instagram Clone : MERN Stack used to build a clone of the famous application Instagram. 
-  Catalog viewer : React-based catalog viewer(without Bootstrap) which can be used as a component in other React project easily. 
-  prep : A small Checklist app made on MERN-Stack for me and my friends to keep track of our progress in terms of preparation.
-  Calculator : Vanilla JavaScript based Calculator. My first work when I started learning Web Development and GitHub.  
+  • Instagram Clone : MERN Stack used to build a clone of the famous application Instagram. 
+  • Catalog viewer : React-based catalog viewer(without Bootstrap) which can be used as a component in other React project easily. 
+  • prep : A small Checklist app made on MERN-Stack for me and my friends to keep track of our progress in terms of preparation.
+  • Calculator : Vanilla JavaScript based Calculator. My first work when I started learning Web Development and GitHub.  
   ```
   
 # Thanks for bearing me till here. Now you can see my work below. 
