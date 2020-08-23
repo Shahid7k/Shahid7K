@@ -22,6 +22,7 @@ Let's see about the Public ones ]</sup></sub>
 I'll keep it short and clear to understand.
 I've included those of my main projects in the repositories here which might need a little introduction. <sub><sup>(Others are either private or not yet uploaded.)</sup></sub>
 
+---
 The included projects are : 
 
 ## DeVlog
@@ -43,11 +44,15 @@ released 2 months prior to the start of this project), therefore the runtime is 
   Technologies used : `HTML, CSS, JS, TS, DENO, MongoDB`
   Repository : [ResuMaker](https://github.com/Shahid7k/ResuMaker)
   
+
 ---
 Other repositories include 
   `Instagram Clone : MERN Stack used to build a clone of the famous application Instagram. `
+  
   `Catalog viewer : React-based catalog viewer(without Bootstrap) which can be used as a component in other React project easily. `
+  
   `prep : A small Checklist app made on MERN-Stack for me and my friends to keep track of our progress in terms of preparation.`
+  
   ` Calculator : Vanilla JavaScript based Calculator. My first work when I started learning Web Development and GitHub.  `
   
 # Thanks for bearing me till here. Now you can see my work below. 
