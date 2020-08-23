@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github.com/Shahid7k/Shahid7K/blob/master/images/git1f.gif" alt="Welcome to my Profile" width="1000px" />
+
+####Let me walk you through my repos.
+<sub><sup> Firstly, the private ones are either the ones made while learning how stuff works in GitHub, or the ones I have some work pending on.
+Let's see about the Public ones </sup></sub>
+
+
+
