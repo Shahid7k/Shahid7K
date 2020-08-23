@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 Let's see about the Public ones ]</sup></sub>
 
 I'll keep it short and clear to understand.
-I've included 3 of my main projects in the repositories here. <sub><sup><sub><sup>(Others are either private or not yet uploaded.)<sub><sup></sup></sub>
+I've included 3 of my main projects in the repositories here. <sub><sup>(Others are either private or not yet uploaded.)</sup></sub>
 
 In the decreasing order of recency, the projects are : 
 
-DeVlog
+#### DeVlog
 :This was a team project in which I was helped by [Shraddha](https://github.com/shraddha099 "Shraddha-Collaborator") 
 The original idea was inclined towards Developers’ Blogging, but while doing the project, we sought it fit for General Purpose Blogging (& QA) too. 
 • Blogging blended with a QA portal designed to handle large set of users.
