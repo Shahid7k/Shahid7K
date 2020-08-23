@@ -25,7 +25,7 @@ I've included those of my main projects in the repositories here which might nee
 ---
 The included projects are : 
 
-## DeVlog
+## >>DeVlog
 > This was a team project in which I was helped by [Shraddha](https://github.com/shraddha099 "Shraddha-Collaborator")
 > The original idea was inclined towards Developers’ Blogging, but while doing the project, we sought it fit for General Purpose Blogging (& QA) too. 
 > + Blogging blended with a QA portal designed to handle large set of users.
@@ -37,7 +37,7 @@ The included projects are :
 
 > This project recieved huge appreciation from  many viewers and professors from the college.
 
-## ResuMaker
+## >>ResuMaker
 > Dynamic Single Page RESTful web application which automatically generates a Resume from the given range of templates provided. Backend built on DENO (new-born technology
 released 2 months prior to the start of this project), therefore the runtime is secure.
 > Scalable as new templates can be added within minutes.
@@ -47,13 +47,12 @@ released 2 months prior to the start of this project), therefore the runtime is 
 
 ---
 Other repositories include 
-  `Instagram Clone : MERN Stack used to build a clone of the famous application Instagram. `
-  
-  `Catalog viewer : React-based catalog viewer(without Bootstrap) which can be used as a component in other React project easily. `
-  
-  `prep : A small Checklist app made on MERN-Stack for me and my friends to keep track of our progress in terms of preparation.`
-  
-  ` Calculator : Vanilla JavaScript based Calculator. My first work when I started learning Web Development and GitHub.  `
+  ```
+  Instagram Clone : MERN Stack used to build a clone of the famous application Instagram. 
+  Catalog viewer : React-based catalog viewer(without Bootstrap) which can be used as a component in other React project easily. 
+  prep : A small Checklist app made on MERN-Stack for me and my friends to keep track of our progress in terms of preparation.
+  Calculator : Vanilla JavaScript based Calculator. My first work when I started learning Web Development and GitHub.  
+  ```
   
 # Thanks for bearing me till here. Now you can see my work below. 
 ##### Have a Nice Day! :smile:
