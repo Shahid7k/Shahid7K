@@ -25,12 +25,12 @@ I've included 3 of my main projects in the repositories here. <sub><sup>(Others 
 In the decreasing order of recency, the projects are : 
 
 #### DeVlog
-:This was a team project in which I was helped by [Shraddha](https://github.com/shraddha099 "Shraddha-Collaborator") 
+This was a team project in which I was helped by [Shraddha](https://github.com/shraddha099 "Shraddha-Collaborator") 
 The original idea was inclined towards Developers’ Blogging, but while doing the project, we sought it fit for General Purpose Blogging (& QA) too. 
-• Blogging blended with a QA portal designed to handle large set of users.
-• Rich Blogging experience with professional Text editors.
-• Authorization: Editing and deleting blogs, questions, and profile data is made available only to the owning user along with JWT Authentication.
-• UI/UX: Attempt to ease up the user-experience by carefully carving the UI.
+... + Blogging blended with a QA portal designed to handle large set of users.
+... + Rich Blogging experience with professional Text editors.
+... + Authorization: Editing and deleting blogs, questions, and profile data is made available only to the owning user along with JWT Authentication.
+... + UI/UX: Attempt to ease up the user-experience by carefully carving the UI.
 
 Front-End Repository : [front-ui](https://github.com/Shahid7k/front-ui)
 Back-End Repository : [nodeapi](https://github.com/Shahid7k/nodeapi)
