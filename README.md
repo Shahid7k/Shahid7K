@@ -32,8 +32,8 @@ The original idea was inclined towards Developers’ Blogging, but while doing t
 + Authorization: Editing and deleting blogs, questions, and profile data is made available only to the owning user along with JWT Authentication.
 + UI/UX: Attempt to ease up the user-experience by carefully carving the UI.
 
-...Front-End Repository : [front-ui](https://github.com/Shahid7k/front-ui)
-...Back-End Repository : [nodeapi](https://github.com/Shahid7k/nodeapi)
+⋅⋅⋅Front-End Repository : [front-ui](https://github.com/Shahid7k/front-ui)
+⋅⋅⋅Back-End Repository : [nodeapi](https://github.com/Shahid7k/nodeapi)
 
 > This project recieved huge appreciation from  many viewers and professors from the college.
 
