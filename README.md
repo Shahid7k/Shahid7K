@@ -26,7 +26,7 @@ I've included those of my main projects in the repositories here which might nee
 The included projects are : 
 
 ## >>DeVlog
-> This was a team project in which I was helped by [Shraddha](https://github.com/shraddha099 "Shraddha-Collaborator")
+> This was a team project in which I collaborated with [Shraddha](https://github.com/shraddha099 "Shraddha-Collaborator-contributed some React-Context and Rich Text Editor related code ")
 > The original idea was inclined towards Developers’ Blogging, but while doing the project, we sought it fit for General Purpose Blogging (& QA) too. 
 > + Blogging blended with a QA portal designed to handle large set of users.
 > + Authorization: Editing and deleting blogs, questions, and profile data is made available only to the owning user along with _JWT Authentication._
@@ -42,6 +42,7 @@ The included projects are :
 released 2 months prior to the start of this project), therefore the runtime is secure.
 > - Scalable as new templates can be added within minutes.  
    Technologies used : `HTML, CSS, JS, TS, DENO, MongoDB`  
+
 Repository : [ResuMaker](https://github.com/Shahid7k/ResuMaker)
   
 
