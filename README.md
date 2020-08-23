@@ -25,7 +25,7 @@ I've included those of my main projects in the repositories here which might nee
 ---
 The included projects are : 
 
-## >>DeVlog
+## ››DeVlog
 > This was a team project in which I collaborated with [Shraddha](https://github.com/shraddha099 "Shraddha-Collaborator-contributed some React-Context and Rich Text Editor related code ")
 > The original idea was inclined towards Developers’ Blogging, but while doing the project, we sought it fit for General Purpose Blogging (& QA) too. 
 > + Blogging blended with a QA portal designed to handle large set of users.
@@ -37,7 +37,7 @@ The included projects are :
 
 > This project recieved huge appreciation from  many viewers and professors from the college.
 
-## >>ResuMaker
+## ››ResuMaker
 > - Dynamic Single Page RESTful web application which automatically generates a Resume from the given range of templates provided. Backend built on DENO (new-born technology
 released 2 months prior to the start of this project), therefore the runtime is secure.
 > - Scalable as new templates can be added within minutes.  
